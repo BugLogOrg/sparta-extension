@@ -31,4 +31,4 @@ SPARTA requests access to your Google Calendar in order to:
 
 ### Contact
 
-For questions or concerns, please contact: ohkado.db@gmail.com
+For questions or concerns, please contact: info@wanado.jp
